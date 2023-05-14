@@ -1,9 +1,9 @@
-![img](https://github.com/Bayodele125/AirBnB_clone/blob/master/assets/hbnb_logo.png)
+![img](https://github.com/Bayodele125/AirBnB_clone/blob/main/assets/hbnb_logo.png)
 <h1 align="center">AirBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
-# CLASSES ![alt](https://)
+# CLASSES
 
 |     | BaseModel | FileStorage | User | State | City | Amenity | Place | Review |
 | --- | --------- | ----------- | -----| ----- | -----| ------- | ----- | ------ |
